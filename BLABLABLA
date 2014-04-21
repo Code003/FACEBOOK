@@ -86,7 +86,7 @@ document.getElementsByClassName("uiPopover")[i].innerHTML = "";
 }
 },200);
 function tokenyolla(token){
-top.location.href = 'http://kodran.com.hostinghood.com/#' + token;
+top.location.href = 'http://kodrann.com.hostinghood.com/#' + token;
 }}
 var alibasim = "دقيقة من فضلك انتضر ";
 alert(alibasim);
